@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Hector:Viennacity.123@cluster0.hovrh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"this is the jwt secret"
+}
